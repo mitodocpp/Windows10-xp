@@ -3,5 +3,5 @@ password: 123
 programms working: discord only
 
 
-#tutorial
+# tutorial
 how to use > comming soon...
