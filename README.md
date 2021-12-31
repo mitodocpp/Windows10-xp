@@ -4,4 +4,4 @@ programms working: discord only
 
 
 # tutorial
-how to use > comming soon...
+how to use > https://youtu.be/wqMGq9cMnnQ
