@@ -1,6 +1,10 @@
 # OS informations
 password: 123
-programms working: discord only
+## Installed Windows: Windows X10
+
+# Programms Working
+discord and Spotify
+
 
 
 # tutorial
