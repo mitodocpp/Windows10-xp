@@ -1,6 +1,6 @@
 # OS informations
 password: 123
-## Installed Windows: Windows X10
+Installed Windows: Windows X10
 
 # Programms Working
 discord and Spotify
